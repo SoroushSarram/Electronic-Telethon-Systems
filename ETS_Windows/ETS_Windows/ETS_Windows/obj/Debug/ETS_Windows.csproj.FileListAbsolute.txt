@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.Login.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\bin\Debug\ETS_Windows.exe.config
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\bin\Debug\ETS_Windows.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\bin\Debug\ETS_Windows.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\bin\Debug\ETS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\bin\Debug\ETS_Lib.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.ETSMain.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Windows\ETS_Windows\obj\Debug\ETS_Windows.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\bin\Debug\ETS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\bin\Debug\ETS_Lib.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\ETS_Lib\ETS_Lib\obj\Debug\ETS_Lib.pdb
